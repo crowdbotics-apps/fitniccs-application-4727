@@ -1,0 +1,3 @@
+rootProject.name = 'fitniccs_application_4727'
+
+include ':app'
